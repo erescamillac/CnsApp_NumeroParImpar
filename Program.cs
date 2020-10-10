@@ -18,6 +18,9 @@ namespace CnsApp_NumeroParImpar
              entero en el rango de -1000000 a 1000000 y después de haberlo introducido, 
              el mismo determine e indique mediante un mensaje en pantalla si el numero es par o impar.
             */
+            /*
+             * (2020/oct/09 23:15:00) Uso de operador lógico ternario  condición ? valorVerdadero : valorFalso;
+             */
             char continuar = 'n';
             int numero;
             do {
