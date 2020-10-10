@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnsApp_NumeroParImpar", "CnsApp_NumeroParImpar.csproj", "{1273FAA1-0EF9-402C-9E6F-5A22F5B09400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1273FAA1-0EF9-402C-9E6F-5A22F5B09400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1273FAA1-0EF9-402C-9E6F-5A22F5B09400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1273FAA1-0EF9-402C-9E6F-5A22F5B09400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1273FAA1-0EF9-402C-9E6F-5A22F5B09400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0B8CD3-0626-4CAC-A608-E932890FCDA4}
+	EndGlobalSection
+EndGlobal
